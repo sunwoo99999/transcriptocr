@@ -1,4 +1,4 @@
-# transcriptocr
+# transcript_ocr
 
 Here's the English version of the `README.md` for your GitHub project:
 
